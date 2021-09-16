@@ -1,5 +1,6 @@
 # Assistant-in-python
-this is Personal assistant made in python
+this is Personal assistant made in python 
+first import the following module
 
 import speech_recognition as sr
 import pyttsx3
